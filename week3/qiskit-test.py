@@ -114,7 +114,7 @@ plot_bloch_multivector(state_bh)
 
 
 
-fig = plot_bloch_vector([0, 0, 1], title="State |0>")
+# fig = plot_bloch_vector([0, 0, 1], title="State |0>")
 # fig.savefig('bloch_sphere.png') 
-# print("图像已保存为 bloch_sphere.png")
+# print("saved bloch_sphere.png")
 # plt.show()
